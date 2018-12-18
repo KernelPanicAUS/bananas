@@ -1,0 +1,10 @@
+{
+  "name": "bananas",
+  "version": "1.0.0",
+  "description": "Super awesome module",
+  "main": "index.js",
+  "repository": "https://github.com/KernelPanicAUS/bananas",
+  "author": "Thomas Khalil",
+  "license": "MIT",
+  "private": false
+}
